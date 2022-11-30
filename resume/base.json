@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Giovanny González Baltazar",
+    "name": "Didier Jesus Peña Navarrete",
     "label": "",
-    "picture": "https://www.gravatar.com/avatar/7fa4088bfe63bc840f8815907b999c0c",
-    "email": "giovanny.gonzalez.19@gmail.com",
-    "phone": "+52 999 145 4542",
-    "website": "https://gggiovanny.github.io/cv/",
-    "summary": "Computer Systems Engineer from the Instituto Tecnológico de Mérida, with 3 years of professional experience. I've worked on international multidisciplinary teams developing massive web products, enterprise software and custom web-based solutions for national level franchises. Proficient in many languages and frameworks (such as React and FastAPI), and experienced in Typescript, SQL, Git, PHP and agile methodologies. I have proven to be very versatile, being able to work in both backend and frontend; and with a quick adaptation to new languages, frameworks and tools, as well as an assimilation of the culture and good practices of each team I've worked on. I enjoy following the best practices to write quality code.",
+    "picture": "https://www.gravatar.com/avatar/08870f5e67cf95a22ebcae74e050570e?s=80",
+    "email": "didier19@hotmail.es",
+    "phone": "+52 999 302 1073",
+    "website": "https://github.com/DetroxDP/cv/",
+    "summary": "Ingeniero en Sistemas Informáticos por el Instituto Tecnológico de Mérida, con 2 años de experiencia trabajando en TI y 1 año como desarrolador. . He demostrado ser muy versátil, pudiendo trabajar tanto en backend como en frontend; y con una rápida adaptación a nuevos lenguajes, frameworks y herramientas, así como una asimilación de la cultura y buenas prácticas de cada equipo en el que he trabajado. Me gusta seguir las mejores prácticas para escribir código de calidad.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -28,20 +28,17 @@
   },
   "work": [
     {
-      "company": "Grupo Bursatil Mexicano, Casa de Bolsa",
-      "position": "Mid Front End Engineer",
-      "website": "https://gbm.com/",
-      "startDate": "2022-05-23",
-      "endDate": "2022-08-31",
-      "summary": "Worked as the lead frontend engineer of a GBM back-office web platform team using an AWS CI/CD pipeline.",
+      "company": "ACNTI CONSULTORES",
+      "position": "Desarrollador Fullstack Móvil",
+      "website": "https://mx.computrabajo.com/acnti-consultores/",
+      "startDate": "2022-04-21",
+      "endDate": "",
+      "summary": "Desarrollé sistemas moviles para puntos de venta para franquicias restauranteras internacionales",
       "highlights": [
-        "Convert user requirements on new features using React/Redux/Sagas/SASS",
-        "Write unit and integration tests using React Testing Library and Jest",
-        "Propose and implement improvements for component and test codebase by using state-of-the-art development patterns",
-        "Being an ambassador of good development practices and flows for other frontend teammates",
-        "Implement a complex modular permission system",
-        "Greatly increase the project test coverage",
-        "Migrate React and testing libraries versions"
+        "Desarrollé una versión para android del punto de venta Aloha capaz de funcionar en hardware personalizado para franquicias restauranteras nacionales e internacionales utilizando Kotlin/JetPack/MongoDB Realm/Retrofit/C#/.Net Core",
+        "Reparé y extendí una aplicación móvil de inventariado de botellas diseñada para funcionar offline y online",
+        "Desarrollé en C# soluciones personalizadas para el punto de venta Aloha para franquicias multinacionales",
+        "Documentar y hacer QA de una REST API de un punto de venta para un kiosko web"
       ]
     },
     {
@@ -98,9 +95,9 @@
       ]
     },
     {
-      "company": "Marbol Industria Mueblera",
-      "position": "Systems development trainee",
-      "website": "https://marbol.com.mx/quienes-somos",
+      "company": "ALPENSA",
+      "position": "Tecnico informatico",
+      "website": "http://logra.com.mx/es/nuestra-compania",
       "startDate": "2018-06-04",
       "endDate": "2018-08-10",
       "summary": "Temporal member of the development team and mentored by Felix Amaya Valencia, from whom I quickly gained recognition and was assigned tasks of the same weight as those given to permanent members of the team. Working there, I learned to understand the importance of knowing the problems in depth before writing even a single line of code.",
