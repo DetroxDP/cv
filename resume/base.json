@@ -2,11 +2,11 @@
   "basics": {
     "name": "Didier Jesus Peña Navarrete",
     "label": "",
-    "picture": "https://www.gravatar.com/avatar/08870f5e67cf95a22ebcae74e050570e?s=80",
+    "picture": "https://s.gravatar.com/avatar/08870f5e67cf95a22ebcae74e050570e?s=80",
     "email": "didier19@hotmail.es",
     "phone": "+52 999 302 1073",
     "website": "https://github.com/DetroxDP/cv/",
-    "summary": "Ingeniero en Sistemas Informáticos por el Instituto Tecnológico de Mérida, con 2 años de experiencia trabajando en TI y 1 año como desarrolador. . He demostrado ser muy versátil, pudiendo trabajar tanto en backend como en frontend; y con una rápida adaptación a nuevos lenguajes, frameworks y herramientas, así como una asimilación de la cultura y buenas prácticas de cada equipo en el que he trabajado. Me gusta seguir las mejores prácticas para escribir código de calidad.",
+    "summary": "Ingeniero en Sistemas Informáticos por el Instituto Tecnológico de Mérida, con 4 años de experiencia trabajando en TI y 1 año como desarrollador. Soy habil desarrollando aplicaciones móviles y he demostrado ser versatil en el manejo de diversas tecnologías. Me entusiasma participar empredimientos que me permitan estar en contacto con nuevas tecnologías donde mi proceso de aprendizaje y desarrollo de habilidades sea constante. Tengo la meta de aprender algo nuevo de valor todo los días para a mi desarrollo profesional. Realmente me apasiona la programación y el desarrollo de aplicaciones.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,13 +16,13 @@
     "profiles": [
       {
         "network": "Linkedin",
-        "username": "giovanny-gonzalez-baltazar",
-        "url": "https://www.linkedin.com/in/giovanny-gonzalez-baltazar/"
+        "username": "Didier Peña",
+        "url": "www.linkedin.com/in/didier-peña-nava"
       },
       {
         "network": "Github",
-        "username": "gggiovanny",
-        "url": "https://github.com/gggiovanny"
+        "username": "DetroxDP",
+        "url": "https://github.com/DetroxDP"
       }
     ]
   },
@@ -33,77 +33,28 @@
       "website": "https://mx.computrabajo.com/acnti-consultores/",
       "startDate": "2022-04-21",
       "endDate": "",
-      "summary": "Desarrollé sistemas moviles para puntos de venta para franquicias restauranteras internacionales",
+      "summary": "Desarrollo de sistemas moviles para puntos de venta para franquicias restauranteras internacionales",
       "highlights": [
-        "Desarrollé una versión para android del punto de venta Aloha capaz de funcionar en hardware personalizado para franquicias restauranteras nacionales e internacionales utilizando Kotlin/JetPack/MongoDB Realm/Retrofit/C#/.Net Core",
-        "Reparé y extendí una aplicación móvil de inventariado de botellas diseñada para funcionar offline y online",
-        "Desarrollé en C# soluciones personalizadas para el punto de venta Aloha para franquicias multinacionales",
-        "Documentar y hacer QA de una REST API de un punto de venta para un kiosko web"
+        "Desarrollo de una versión para android del punto de venta Aloha capaz de funcionar en hardware personalizado para franquicias restauranteras nacionales e internacionales utilizando Kotlin/JetPack/MongoDB Realm/Retrofit/C#/.Net Core",
+        "Reparación y extención de una aplicación móvil de inventariado de botellas diseñada para funcionar offline y online.",
+        "Desarrollo de soluciones personalizadas para el punto de venta Aloha para franquicias multinacionales en C#.",
+        "Documentación y realización de QA de una REST API de un punto de venta para un kiosko web"
       ]
     },
     {
-      "company": "Boy Scouts of America",
-      "position": "React Developer",
-      "website": "https://www.scouting.org/",
-      "startDate": "2021-08-02",
-      "endDate": "2022-05-20",
-      "summary": "Worked as frontend React developer on the international English speaker multidisciplinary team in charge of the Event Registration System for Boy Scouts of America using agile methodologies.",
+      "company": "Grupo Eetisur",
+      "position": "Supervisor de Soporte Tecnico",
+      "website": "https://www.eetisur.com.mx/",
+      "startDate": "2018-06-18",
+      "endDate": "2022-04-01",
+      "summary": "Conocimientos y habilidades en el mantenimiento y soporte de equipos de cómputo y servidores, así como en la asistencia técnica especializada en hardware y resolución de problemas técnicos.",
       "highlights": [
-        "Convert stories in to new features using React/Typescript/Redux/RxJS/Styled Components",
-        "Communicate with users when it is needed in order to solve specific issues",
-        "Always keep in sync with the design and backend teams",
-        "Keep the codebase maintainable be keeping it modular and self-documented",
-        "Write integration tests using Cypress",
-        "Document processes and 'tribal knowledge' in Confluence"
-      ]
-    },
-    {
-      "company": "The Ksquare Group",
-      "position": "Fullstack Developer",
-      "website": "https://www.theksquaregroup.com/",
-      "startDate": "2021-07-19",
-      "endDate": "2022-05-20",
-      "summary": "Worked as a USA nearshore developer for The Boy Scouts of America. My main goal is to deliver a high-quality result in a timely manner, following the Ksquare culture."
-    },
-    {
-      "company": "Génesis Aplicaciones",
-      "position": "Junior Web Developer",
-      "website": "https://ssl.timbraxml.com/",
-      "startDate": "2020-01-08",
-      "endDate": "2021-07-16",
-      "summary": "In charge of developing and maintaining some massive web products, the main one being the TimbraXML billing web application. Besides gaining a lot of knowledge of frontend and backend web development, I learned what is a good workflow among a professional development team, supported by version control tools, progression boards and effective communication channels.",
-      "highlights": [
-        "Migrate, develop and maintain the TimbraXML billing web application",
-        "Deliver custom web-based solutions (PHP/CodeIgniter/JQuery) for national level franchises",
-        "Turn core processes into documented libraries with modern and readable syntax",
-        "Make flows with Git to avoid crashes between teammate's changes"
-      ]
-    },
-    {
-      "company": "Grupo Dicas",
-      "position": "Technical Support Assistant",
-      "website": "http://www.grupodicas.com.mx/",
-      "startDate": "2019-06-17",
-      "endDate": "2019-12-20",
-      "summary": "Originally tasked to be an assistant in technical support and server administration, I ended up doing all the engineering process to develop an Android application.",
-      "highlights": [
-        "Gather and interpret information about the experience of using software by users with little or no computer knowledge",
-        "Used modern software design architectures (MVVM and observer pattern)",
-        "Reverse engineer an existing system to integrate it to another with zero documentation",
-        "Implemented a REST API with PHP and Laravel",
-        "Secured the requests with JSON Web Tokens"
-      ]
-    },
-    {
-      "company": "ALPENSA",
-      "position": "Tecnico informatico",
-      "website": "http://logra.com.mx/es/nuestra-compania",
-      "startDate": "2018-06-04",
-      "endDate": "2018-08-10",
-      "summary": "Temporal member of the development team and mentored by Felix Amaya Valencia, from whom I quickly gained recognition and was assigned tasks of the same weight as those given to permanent members of the team. Working there, I learned to understand the importance of knowing the problems in depth before writing even a single line of code.",
-      "highlights": [
-        "Design modules of the internal custom ERP system with C# Windows Forms.",
-        "Create the backend for my modules using T-SQL tables and stored procedures."
+        "Mantenimiento de equipos de computo y servidores internos de la empresa.",
+        "Servicio de soporte técnico a hardware especializado.",
+        "Colaboración en la resolución de problemas técnicos.",
+        "Administrador de bases de datos.",
+        "Asistencia técnica en emisión de CFDI para facturas nacionales e internacionales.",
+        "Iniciativa para adquirir el programa HP Planet Partner para el reciclaje de cartuchos de impresora."
       ]
     }
   ],
@@ -112,12 +63,12 @@
       "institution": "Instituto Tecnológico de Mérida",
       "location": "Yucatán, México",
       "url": "https://www.itmerida.mx/",
-      "area": "Computer Systems",
-      "studyType": "Engineer",
-      "specialization": "Artificial Intelligence",
+      "area": "Sistemas Computacionales",
+      "studyType": "Ingeniería",
+      "specialization": "Aplicaciones móviles Android",
       "startDate": "2016-08-15",
-      "endDate": "2020-12-11",
-      "score": "91.69",
+      "endDate": "2022-12-11",
+      "score": "",
       "courses": []
     }
   ],
@@ -126,219 +77,75 @@
       "title": "HackSureste 2018",
       "date": "2018-11-23",
       "awarder": "Team MeseBot",
-      "summary": "Thanks to Giovanny's leadership and technical skills, Team Mesebot was recognized with third place for creating a high-impact innovation project consisting of a system to deliver restaurant orders directly from the table to the kitchen using voice commands. The team won a cash prize, a pass to Talent Land in Guadalajara and an entrepreneurship mentorship by Instituto Yucateco de Emprendedores (IYEM) that included product registration and a registered company.",
-      "website": "https://github.com/gggiovanny/mesebot_legacy"
+      "summary": "Gracias al liderazgo y habilidades técnicas de Didier, el equipo Mesebot fue reconocido con el tercer lugar por crear un proyecto de innovación de alto impacto consistente en un sistema para entregar pedidos de restaurantes directamente de la mesa a la cocina mediante comandos de voz. El equipo ganó un premio en efectivo, un pase a Talent Land en Guadalajara y una mentoría de emprendimiento por parte del Instituto Yucateco de Emprendedores (IYEM) que incluyó el registro del producto y una empresa registrada.",
+      "website": ""
     }
   ],
   "publications": [
-    {
-      "name": "Arquitectura basada en agentes para el control de tráfico urbano utilizando la herramienta de simulación SUMO",
-      "publisher": "JOURNAL CIM: Coloquio de Investigación Multidisciplinaria (ISSN: 2007:8102)",
-      "releaseDate": "2021-10-01",
-      "url": "http://depi.orizaba.tecnm.mx/Journals/CIM_2021_1.8.pdf",
-      "summary": "My ongoing bachelor dissertation got a derivate published paper, and I had the honor to present it at CIM-Orizaba-2021 International Event where it aroused a lot of interest."
-    }
+    
   ],
   "projects": [
-    {
-      "name": "Costeapp",
-      "description": "An offline-first web application for costing estimations of cooking recipes.",
-      "highlights": [],
-      "keywords": [
-        "React",
-        "RXDB",
-        "React Hook Form",
-        "Bulma"
-      ],
-      "startDate": "2020",
-      "endDate": "",
-      "url": "https://github.com/gggiovanny/costeos_app",
-      "roles": [],
-      "entity": "",
-      "type": ""
-    },
-    {
-      "name": "PetriPy",
-      "description": "Create timed Petri nets in a simple way through place and transition nodes that execute actions defined by you.",
-      "highlights": [],
-      "keywords": [],
-      "startDate": "2021",
-      "endDate": "",
-      "url": "https://github.com/gggiovanny/PetriPy",
-      "roles": [
-        "Python",
-        "PyPI Package"
-      ],
-      "entity": "",
-      "type": "Dissertation derivate project"
-    },
-    {
-      "name": "Asset validation application",
-      "description": "An android application to validate the existence of fixed assets with a QR code.",
-      "highlights": [],
-      "keywords": [
-        "Mobile",
-        "Android",
-        "Kotlin",
-        "Jetpack"
-      ],
-      "startDate": "2019",
-      "endDate": "2019",
-      "url": "https://github.com/gggiovanny/dicas-auditorias-app",
-      "roles": [],
-      "entity": "Grupo Dicas",
-      "type": "Company project"
-    },
-    {
-      "name": "Intelligent urban traffic control strategies",
-      "description": "Based on an architecture running on an urban traffic simulator, where each traffic light is an intelligent agent that makes decisions to give passing priorities according to predictions made based on the historical behavior of the intersection",
-      "highlights": [],
-      "keywords": [
-        "LaTeX",
-        "Markdown",
-        "Python",
-        "PetriPy"
-      ],
-      "startDate": "2021",
-      "endDate": "",
-      "url": "https://github.com/gggiovanny/TesisSemaforosInteligentes",
-      "roles": [],
-      "entity": "InstitutoInstituto Tecnológico de Mérida",
-      "type": "Bachelor dissertation"
-    },
-    {
-      "name": "FiestasMexicanas",
-      "description": "A Windows Forms desktop application for quoting, order management and piñata production.",
-      "highlights": [],
-      "keywords": [
-        "C#",
-        ".NET",
-        "Windows Forms",
-        "SQL Server",
-        "T-SQL"
-      ],
-      "startDate": "2018",
-      "endDate": "2018",
-      "url": "https://github.com/gggiovanny/FiestasMexicanas",
-      "roles": [],
-      "entity": "",
-      "type": "School project"
-    }
+    
   ],
   "skills": [
     {
-      "name": "Frontend web development",
-      "level": "Expert",
+      "name": "Desarrollador móvil",
+      "level": "Competente",
       "keywords": [
-        "HTML/CSS",
-        "Javascript",
-        "Typescript",
-        "React",
-        "Redux",
-        "Sagas",
-        "React Query",
-        "RxJS",
-        "CSS in JS",
-        "SASS",
-        "Jest",
-        "Testing Library",
-        "Cypress",
-        "JQuery"
+        "Kotlin",
+        "Firebase",
+        "Android Jetpack",
+        "Java",
+        "Retrofit",
+        "MongoDB Realm" 
       ]
     },
     {
-      "name": "Backend web development",
-      "level": "Advanced",
-      "keywords": [
-        "Python",
-        "FastAPI",
-        "NodeJS",
-        "Prisma",
-        "PHP (Laravel & Codeigniter)",
-        "T-SQL",
-        "MySQL",
-        "Stored procedures",
-        "ORM",
-        "REST",
-        "JWT",
-        "Auth0"
-      ]
-    },
-    {
-      "name": "Windows Desktop",
-      "level": "Intermediate",
+      "name": "Aplicaciones de Escritorio",
+      "level": "Intermedio",
       "keywords": [
         "C#",
         "SQL Server (T-SQL)",
-        "Stored procedures",
-        "C/C++"
+        "Newtonsoft Json.NET"
       ]
     },
     {
-      "name": "Mobile development",
-      "level": "Intermediate",
-      "keywords": [
-        "Kotlin",
-        "Java",
-        "Android Jetpack"
-      ]
-    },
-    {
-      "name": "Tech skills",
-      "level": "Ninja",
+      "name": "Habilidades técnicas",
+      "level": "Intermedio",
       "keywords": [
         "Git",
         "VS Code",
         "Linux command line",
-        "Agile methodologies",
-        "Markdown",
-        "LaTeX"
+        "Android Estudio",
+        "Visual Studio"
       ]
     },
     {
-      "name": "Learning",
+      "name": "Competencias",
       "level": "",
       "keywords": [
-        "Amazon Web Services",
-        "Remix framework",
-        "Microservices"
-      ]
-    },
-    {
-      "name": "Soft skills",
-      "level": "",
-      "keywords": [
-        "Analytical skills",
-        "Detail-oriented ",
-        "Critical thinking",
-        "Integrity",
-        "Leadership ",
-        "Research",
-        "Stress management",
-        "Business vision",
-        "Written and oral communication"
+        "Trabajo en equipo",
+        "Resolución de problemas",
+        "Investigación",
+        "Integridad",
+        "Liderazgo",
+        "Curiosidad técnica",
+        "Análisis de negocio", 
+        "Curiosidad por aprender"
       ]
     }
   ],
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native"
+      "fluency": "Nativo"
     },
     {
       "language": "English",
-      "fluency": "B2, Conversational"
+      "fluency": "B1, Intermedio"
     }
   ],
   "volunteer": [
-    {
-      "organization": "Scouts de México",
-      "position": "Jefe de Tropa (YUC1990357)",
-      "url": "https://scouts.org.mx/",
-      "startDate": "2019-03-16",
-      "endDate": "2022-01-01",
-      "summary": "",
-      "highlights": []
-    }
+    
   ]
 }
