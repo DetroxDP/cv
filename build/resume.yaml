@@ -6,7 +6,7 @@
     email: "didier19@hotmail.es"
     phone: "+52 999 302 1073"
     website: "https://github.com/DetroxDP/cv/"
-    summary: "Ingeniero en Sistemas Informáticos por el Instituto Tecnológico de Mérida, con 4 años de experiencia trabajando en TI y 1 año como desarrollador. Soy habil desarrollando aplicaciones móviles y he demostrado ser versatil en el manejo de diversas tecnologías. Me entusiasma participar empredimientos que me permitan estar en contacto con nuevas tecnologías donde mi proceso de aprendizaje y desarrollo de habilidades sea constante. Tengo la meta de aprender algo nuevo de valor todo los días para a mi desarrollo profesional. Realmente me apasiona la programación y el desarrollo de aplicaciones."
+    summary: "Ingeniero en Sistemas Informáticos por el Instituto Tecnológico de Mérida, con 4 años de experiencia trabajando en TI y 1 año como desarrollador. Soy habil desarrollando aplicaciones y he demostrado ser versatil en el manejo de diversas tecnologías. Me entusiasma participar empredimientos que me permitan estar en contacto con nuevas tecnologías donde mi proceso de aprendizaje y desarrollo de habilidades sea constante. Tengo la meta de aprender algo nuevo de valor todo los días para mi desarrollo profesional. Realmente me apasiona la programación y el desarrollo de aplicaciones sin importar si son móviles o de Escritorio."
     location: 
       address: ""
       postalCode: ""
@@ -42,6 +42,7 @@
       endDate: "2022-04-01"
       summary: "Conocimientos y habilidades en el mantenimiento y soporte de equipos de cómputo y servidores, así como en la asistencia técnica especializada en hardware y resolución de problemas técnicos."
       highlights: 
+        - "Creación de informes de venta y compra usando el complemento de Crystal Reports"
         - "Mantenimiento de equipos de computo y servidores internos de la empresa."
         - "Servicio de soporte técnico a hardware especializado."
         - "Colaboración en la resolución de problemas técnicos."
@@ -85,13 +86,17 @@
       level: "Intermedio"
       keywords: 
         - "C#"
+        - "Visual Basic"
         - "SQL Server (T-SQL)"
+        - ".NET core"
+        - "ASP.NET"
         - "Newtonsoft Json.NET"
     - 
       name: "Habilidades técnicas"
       level: "Intermedio"
       keywords: 
         - "Git"
+        - "Crystal Reports"
         - "VS Code"
         - "Linux command line"
         - "Android Estudio"
@@ -110,9 +115,9 @@
         - "Curiosidad por aprender"
   languages: 
     - 
-      language: "Spanish"
+      language: "Español"
       fluency: "Nativo"
     - 
-      language: "English"
+      language: "Ingles"
       fluency: "B1, Intermedio"
   volunteer: []
