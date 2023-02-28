@@ -28,11 +28,26 @@
   },
   "work": [
     {
+      "company": "DIMASUR",
+    "position": "Desarrollador analista",
+    "website": "https://https://www.dimasur.com.mx//",
+    "startDate": "2023-01-30",
+    "endDate": "",
+    "summary": "Desarrollo y análisis para el sistema de gestión empresarial actual de la empresa.",
+    "highlights": [
+      "Creación de procedimientos almacenados en SQL con el fin de mejorar el rendimiento del programa.",
+      "ActualActualización de bases de datos que estaban obsoletas.",
+      "Elaboración de disparadores (triggers) para garantizar la consistencia de la información en todas las bases de datos.",
+      "Desarrollo de soluciones para la nueva versión del sistema.",
+      "Desarrollo de modulos de cotización de refacciones."
+    ]
+  },
+    {
       "company": "ACNTI CONSULTORES",
       "position": "Desarrollador Fullstack Móvil",
       "website": "https://mx.computrabajo.com/acnti-consultores/",
       "startDate": "2022-04-21",
-      "endDate": "",
+      "endDate": "2023-01-15",
       "summary": "Desarrollo de sistemas moviles para puntos de venta para franquicias restauranteras internacionales",
       "highlights": [
         "Desarrollo de una versión para android del punto de venta Aloha capaz de funcionar en hardware personalizado para franquicias restauranteras nacionales e internacionales utilizando Kotlin/JetPack/MongoDB Realm/Retrofit/C#/.Net Core",
